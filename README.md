@@ -1,6 +1,6 @@
 ### Hello there internet friend!
 #### Welcome to my github.
-- Aspiring Full Stack Developer
+- Aspiring Full Stack Web Developer
 - Currently working on learning ReactJS
 
 <!--
