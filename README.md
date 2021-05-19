@@ -1,5 +1,5 @@
 ### Hello there internet friend!
-##### Welcome to my github.
+#### Welcome to my github.
 - Aspiring Full Stack Developer
 - Currently working on learning ReactJS
 
