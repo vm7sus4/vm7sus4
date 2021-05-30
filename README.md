@@ -1,7 +1,7 @@
 ### Hello there internet friend!
 #### Welcome to my github.
 - Aspiring Full Stack Web Developer
-- Currently working on learning ReactJS
+- Currently working on learning ReactJS and NodeJS
 
 <!--
 **vm7sus4/vm7sus4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
