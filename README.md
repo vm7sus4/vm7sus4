@@ -1,5 +1,6 @@
 ### Hello there stranger!
-#### Welcome to my github.
+#### Welcome to my github
+
 - Aspiring Full Stack Web Developer
 - Currently working on learning ReactJS and NodeJS
 
